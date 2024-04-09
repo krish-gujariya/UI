@@ -1,0 +1,29 @@
+.box{
+    background-color: transparent;
+    height: 550px;
+    display: flex;
+    width: 900px;
+    align-items: center;
+}
+
+img{
+    width: 400px;
+}
+
+
+
+
+form input{
+    width: 260px;
+    font-size: 18px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+  }
+
+label{
+    font-size: 17px;
+}
